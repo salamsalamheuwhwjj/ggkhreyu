@@ -1,0 +1,7 @@
+motor
+psutil==5.9.4
+pyromod==1.5
+pyrogram==1.4.16
+python-dotenv==0.21.1
+telethon
+tgcrypto
